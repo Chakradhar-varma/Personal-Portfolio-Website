@@ -7,7 +7,7 @@ The provided files make up a portfolio website with a modern and responsive desi
 # 1.Index.html
 This file contains the HTML structure of the website.
 
-# Head Section:
+##### Head Section:
 * Sets the character encoding and compatibility.
 * Includes the CSS file style.css and Boxicons for icons.
 * Specifies the title as "Portfolio Website".
