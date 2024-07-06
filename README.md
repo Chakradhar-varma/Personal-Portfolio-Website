@@ -7,12 +7,12 @@ The provided files make up a portfolio website with a modern and responsive desi
 ## 1.Index.html
 This file contains the HTML structure of the website.
 
-### i.Head Section:
+### Head Section:
 * Sets the character encoding and compatibility.
 * Includes the CSS file style.css and Boxicons for icons.
 * Specifies the title as "Portfolio Website".
 
-### ii.Body Section:
+### Body Section:
 
 #### 1.Header:
 * Contains the logo, a menu icon for mobile view, navigation links, and a dark mode icon.
@@ -25,8 +25,7 @@ Skills: Lists coding and professional skills with progress bars.
 Contact: Contains a form for users to send a message.
 #### 3.Footer: Simple footer with copyright information and a back-to-top icon.
 
-Scripts:
-
-Links to external libraries for ScrollReveal and Typed.js.
-Includes the main JavaScript file script.js.
-Contains a script to handle form submission using Google Sheets.
+### Scripts:
+* Links to external libraries for ScrollReveal and Typed.js.
+* Includes the main JavaScript file script.js.
+* Contains a script to handle form submission using Google Sheets.
