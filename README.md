@@ -17,12 +17,12 @@ This file contains the HTML structure of the website.
 #### 1.Header:
 * Contains the logo, a menu icon for mobile view, navigation links, and a dark mode icon.
 #### 2. Sections:
-Home: Introduction with a brief description and social media links.
-About: Detailed description of the individual and a link to download their resume.
-Education: Lists educational background.
-Services: Describes the services offered.
-Skills: Lists coding and professional skills with progress bars.
-Contact: Contains a form for users to send a message.
+* Home: Introduction with a brief description and social media links.
+*About: Detailed description of the individual and a link to download their resume.
+*Education: Lists educational background.
+*Services: Describes the services offered.
+*Skills: Lists coding and professional skills with progress bars.
+*Contact: Contains a form for users to send a message.
 #### 3.Footer: Simple footer with copyright information and a back-to-top icon.
 
 ### Scripts:
