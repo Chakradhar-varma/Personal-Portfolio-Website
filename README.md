@@ -38,18 +38,17 @@ This file contains the HTML structure of the website.
 # 2.Style.css
 This file contains the CSS styling for the website. It defines how elements should be displayed.
 
-# General Styles:
+### General Styles:
 * Resets margins and padding, sets box-sizing, and defines global font styles.
 * Defines styles for body, headers, links, images, buttons, etc.
 
-# Header Styles:
+### Header Styles:
 * Styles the header, logo, navbar, menu icon, and dark mode icon.
 * Implements sticky header behavior on scroll.
 
-# Section Styles:
+### Section Styles:
 * Styles for different sections like home, about, education, services, skills, and contact.
 * Includes responsive design for different screen sizes.
 
-# Footer Styles:
-
-Styles the footer text and back-to-top icon.
+### Footer Styles:
+* Styles the footer text and back-to-top icon.
