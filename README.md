@@ -52,3 +52,29 @@ This file contains the CSS styling for the website. It defines how elements shou
 
 ### Footer Styles:
 * Styles the footer text and back-to-top icon.
+
+
+
+# 3.script.js
+This file contains the JavaScript logic for the website.
+
+### Toggle Navbar:
+* Toggles the display of the navbar and changes the menu icon on click.
+
+### Scroll Sections Active Link:
+* Updates the active link in the navbar based on the current scroll position.
+* Adds a sticky class to the header after scrolling 100px.
+* Hides the navbar when a link is clicked.
+
+### Scroll Reveal:
+* Implements reveal animations for different sections using Scroll Reveal.
+
+### Typed.js:
+* Creates a typing animation with different titles.
+
+### Dark/Light Mode:
+* Toggles between dark and light mode when the icon is clicked.
+
+
+# 4.Portfolio Website:
+[https://itschakradharvarma.vercel.app/](https://itschakradharvarma.vercel.app/)
